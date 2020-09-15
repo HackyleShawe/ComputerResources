@@ -65,13 +65,29 @@ Learning Resource of Computer Science and Technology, From Beginner To Master.
 - 计算机人的**根本**
 - 注重实现**原理**和思想，较为底层
 
-[**“点击进入，“计算机科学”学习资料库**](B01-ComputerScience/ComputerScience.md)
+[**“点击进入：“计算机科学”学习资料库**](B01-ComputerScience/ComputerScience.md)
 
 > **内容速览：**
 
 |     Item01     |       Item02       |  Item03  |
 | :------------: | :----------------: | :------: |
 | 数据结构与算法 | OJ（Online Judge） | 编程竞赛 |
+
+
+
+# Java Web工程师
+
+[**点击进入：“Java Web工程师”学习资料库**](H-JavaEngineer/JavaEngineer.md)
+
+> **内容速览：**
+
+| Item01  |      Item02       | Item03 | Item04  | Item05  |
+| :-----: | :---------------: | :----: | :-----: | :-----: |
+| Java SE | 前端（Front End） | 数据库 | Java EE | SSM框架 |
+
+
+
+
 
 
 
