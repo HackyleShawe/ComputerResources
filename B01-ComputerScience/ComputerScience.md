@@ -12,6 +12,20 @@
 
 ## 初级
 
+
+
+### 书籍
+
+- **程杰《大话数据结构》（清华大学出版社）**
+  - 超级推荐，非常适合初学者（大一学生，刚开始接触计算机者）
+  - [点击查看书籍封面](/B-Primary/PLAY-WITH-DATA-STRUCTURE.jpg)
+
+
+
+
+
+### 在线教程
+
 - **易百教程**
   - https://www.yiibai.com/data_structure
 - **"ZY-JIMMY"的CSDN博客**
