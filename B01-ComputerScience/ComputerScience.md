@@ -22,13 +22,21 @@
 
 
 
+### 在线视频
+
+- **2020黑马程序员数据结构教程（基于Java）**
+  - https://www.bilibili.com/video/av83826038
+
+- **黑马程序员数据结构（基于Java）**
+  - https://www.bilibili.com/video/av78639604
+
 
 
 ### 在线教程
 
-- **易百教程**
+- **易百教程** 【关键字：简略、易懂、C实现】
   - https://www.yiibai.com/data_structure
-- **"ZY-JIMMY"的CSDN博客**
+- **"ZY-JIMMY"的CSDN博客** 【关键字：笔记、内在原理、C++实现】
   - https://blog.csdn.net/zyzmzm_/category_9290263.html
 
 
@@ -38,6 +46,20 @@
 - **浙大数据结构**
   - https://www.bilibili.com/video/BV1Z7411R7eC
   - 评论中有课件和笔记
+
+
+
+# 算法
+
+
+
+## 中级
+
+- **labuladong** 【关键词：数据结构、算法、算法思想、LeetCode】
+  - https://github.com/labuladong/fucking-algorithm
+  - https://labuladong.gitbook.io/algo/
+
+
 
 
 
@@ -58,7 +80,7 @@
 
 ## 中级
 
-- **牛客网在线编程OJ：**
+- **牛客网在线编程OJ**
   - https://www.nowcoder.com/activity/oj
 
 

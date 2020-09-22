@@ -12,7 +12,7 @@
 
 ### 入门级
 
-- **IntelliJ IDEA教程 - 易百教程**
+- **IntelliJ IDEA教程 - 易百教程** 【关键字：极简、详细、步骤连贯】
   - https://www.yiibai.com/intellij_idea
 
 - **Eclipse教程 - 易百教程**
@@ -30,7 +30,7 @@
 
 >  入门级
 
-- **标准SQL基础教程 - 易百教程**
+- **标准SQL基础教程 - 易百教程** 
   - https://www.yiibai.com/sql
 
 
