@@ -157,6 +157,199 @@
 
 
 
+# 书籍(电子书、纸质书)相关综合性站点
+
+
+
+
+
+- **图灵社区**
+  - https://www.ituring.com.cn/
+  - 评价：书籍比较全面的图书社区，电子书的价格是纸质书的一半。
+
+- **博文观点**
+
+  - http://www.broadview.com.cn/
+  - 也是一个电子图书馆。也有一些图文教程。
+
+  
+
+- **码农之家**
+  - https://www.xz577.com/
+  - 官方自我定位：给程序员和编程爱好者分享计算机编程电子书以及相关的学习资源和技术文章
+
+
+
+- **鸠摩搜书**
+  - https://www.jiumodiary.com/
+  - 图书搜索引擎，可以直接获得免费的PDF
+
+
+
+- **极客图书**
+  - https://jikbook.com/
+  - 
+
+- **搬书匠**
+  - http://www.banshujiang.cn/
+
+
+
+- **书栈网**
+  - https://www.bookstack.cn/
+  - 评价：
+    - 几乎涵盖互联网的各个方向的不同技术的电子书教程。
+    - 以不同的技术栈进行分门别类，非常方便找书、发现好书。
+    - 部分开源书籍、也含有一些图文教程。
+
+
+
+- **ai books**
+  - https://www.aibooks.cc/
+
+
+
+- **爱分享电子书**
+  - http://www.ishare1.cn/
+
+
+
+- **计算机书籍控**
+  - http://bestcbooks.com/
+  - 和某东、某猫上买的书一样，绝大部分没有PDF版，但是可以直接购买Kindle版
+
+
+
+- **HelloGirl**
+  - https://www.jqhtml.com/down/category/resources
+  - 含盖C、Java、PHP、Python、前端、数据库、中间件技术方向的书籍
+
+
+
+# 技术网站&博客&论坛
+
+
+
+
+
+## 入门级
+
+
+
+- **CSDN**
+  - https://www.csdn.net/
+  - 评价：
+    - 内容杂糅、质量参差不齐（遇上高质量的文章基本看运气），抄袭严重
+    - 通过可以通过百度直接搜索到CSDN上的相关页面
+
+- **博客园**
+  - https://www.cnblogs.com/
+  - 较大的技术博客平台，内容质量较高
+
+
+
+- **51CTO**
+  - https://www.51cto.com/
+  - 同CSDN
+
+
+
+
+
+## 初级
+
+
+
+- **Gitbook**
+  - https://gitbook.cn/
+
+
+
+- V2EX
+  - https://www.v2ex.com
+
+
+
+- **思否**
+  - https://segmentfault.com/
+  - 评价：博客、问答的技术社区
+
+
+
+- **开源中国**
+  - https://www.oschina.net
+  - 评价：技术博客、实时动态、技术资讯
+
+
+
+- **实验楼**
+  - https://www.lanqiao.cn/courses/  或者  https://www.shiyanlou.com/
+  - 评价：
+    - 以**实验**为驱动的教程方式。就像是在大学时候上实验课一样，如果不会做会有解析。
+    - 提供在线网络的编程环境。例如，在学习Linux的时候，就会提供在线版的Linux虚拟机。
+
+
+
+## 中级
+
+
+
+- **腾讯云开发者社区**
+  - https://cloud.tencent.com/developer
+
+
+
+- **阿里云开发者社区**
+  - https://yq.aliyun.com
+
+
+
+- **掘金**
+  - https://juejin.im/
+
+
+
+
+
+## 国外技术站点
+
+- #### **Stack Overflow**
+
+  - https://stackoverflow.com/
+  - 全球通用的程序员交流平台。
+
+- #### **dev.io**
+
+  - https://dev.to/
+
+- #### **DZone**
+
+  - https://dzone.com/
+
+- #### **Bytes**
+
+  - https://bytes.com/
+
+- #### **Google Developers**
+
+  - https://developers.google.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
