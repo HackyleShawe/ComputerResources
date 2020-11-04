@@ -106,6 +106,30 @@
 
 
 
+# 项目管理
+
+
+
+## Maven
+
+
+
+- **尚硅谷（B站视频教程）**【关键字：详细、基础、评论区有课件、Eclipse】
+  - 基于-Eclipse：https://www.bilibili.com/video/BV1Pt411y7Rh
+
+- **动力节点（B站视频教程）**【关键字：详细、基础、评论区有课件、IDEA】
+  - 基于IDEA：https://www.bilibili.com/video/BV1dp4y1Q7Hf
+
+
+
+
+
+
+
+
+
+
+
 # 英文资料
 
 **以下内容全为因为英文资料，可能触及到许多人的知识盲区（这个人就是我），仅仅可以作为午后休闲看着玩！**
